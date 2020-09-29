@@ -1,10 +1,11 @@
 {
-  "Posts": [
-  {
-    "id" : 1, "title": "Prvi post", "completed": false
-  },
-  {
-  "id" : 2, "title": "Drugi post", "completed": false
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  ]
 }
