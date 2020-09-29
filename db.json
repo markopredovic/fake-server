@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "React redux",
+      "completed": false
+    },
+        {
+      "id": 1,
+      "title": "Redux async actions",
+      "completed": false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
